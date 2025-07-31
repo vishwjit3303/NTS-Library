@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  title: NTS Library API
+  version: 1.0.0
+  description: API documentation for NTS Library backend platform
+servers:
+  - url: http://localhost:5000
+paths: {}
