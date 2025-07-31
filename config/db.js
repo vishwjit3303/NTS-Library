@@ -1,0 +1,4 @@
+/*
+  MongoDB connection removed as per user request.
+  This file is now deprecated and can be deleted or kept empty.
+*/

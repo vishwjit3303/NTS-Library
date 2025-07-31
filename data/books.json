@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Computer Science",
+    "author": "John Doe",
+    "subject": "Computer Science",
+    "isbn": "1234567890",
+    "publicationYear": 2020
+  },
+  {
+    "id": 2,
+    "title": "Advanced Mathematics",
+    "author": "Jane Smith",
+    "subject": "Mathematics",
+    "isbn": "0987654321",
+    "publicationYear": 2018
+  },
+  {
+    "id": 3,
+    "title": "Physics Fundamentals",
+    "author": "Albert Newton",
+    "subject": "Physics",
+    "isbn": "1122334455",
+    "publicationYear": 2019
+  }
+]
