@@ -1,0 +1,79 @@
+ *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+ }
+.hero-wrapper {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.container{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
+  height: 100vh;
+  background: #FFFFFFB3;
+  border-radius: 0px 0px 0px 0px;
+  background-image: url(/images/img.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ 
+}
+
+.text1{
+ position: absolute; 
+  top: 250px; 
+  left:300px; 
+  font-family: Poppins; /* Heading */
+  font-size: 72px; 
+  line-height: 72px; 
+  font-weight: 800; 
+  color: #242524FF;
+}
+.text2{
+
+  position: absolute; 
+  top: 350px; 
+  left: 370px; 
+  width: 768px; 
+  font-family: Roboto; /* Body */
+  font-size: 27px; 
+  line-height: 32px; 
+  font-weight: 400; 
+  color: #242524E6; 
+
+}
+.btn{
+  /* Button */
+
+  position: absolute; 
+  top: 440px; 
+  left: 620px; 
+  height: 44px; 
+  padding: 0 12px; 
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  font-family: Roboto; 
+  font-size: 14px; 
+  line-height: 22px; 
+  font-weight: 500; 
+  color: #242524FF; 
+  border-radius: 60; 
+  /* border: 1px solid #242524FF; */
+  gap: 8px;
+}
+/* Hover */
+.btn:hover {
+  color: #242524FF; 
+ 
+}
+/* Disabled */
+.btn:disabled {
+  opacity: 0.4; 
+}
